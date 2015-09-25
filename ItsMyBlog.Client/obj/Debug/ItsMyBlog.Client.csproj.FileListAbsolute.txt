@@ -1,0 +1,52 @@
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\ItsMyBlog.Client.dll.config
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\ItsMyBlog.Client.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\ItsMyBlog.Client.pdb
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\Antlr3.Runtime.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\Newtonsoft.Json.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.Helpers.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.Mvc.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.Optimization.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.Razor.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.WebPages.Deployment.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.WebPages.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.WebPages.Razor.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\WebGrease.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.Helpers.xml
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.Mvc.xml
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.Optimization.xml
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.Razor.xml
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.WebPages.xml
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.WebPages.Deployment.xml
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.WebPages.Razor.xml
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\Antlr3.Runtime.pdb
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\bin\Newtonsoft.Json.xml
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\obj\Debug\ItsMyBlog.Client.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\obj\Debug\ItsMyBlog.Client.pdb
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Client\obj\Debug\ItsMyBlog.Client.csprojResolveAssemblyReference.cache
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\ItsMyBlog.Client.dll.config
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\ItsMyBlog.Client.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\ItsMyBlog.Client.pdb
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\Antlr3.Runtime.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\Newtonsoft.Json.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.Helpers.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.Mvc.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.Optimization.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.Razor.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.WebPages.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.WebPages.Razor.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\WebGrease.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.Helpers.xml
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.Mvc.xml
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.Optimization.xml
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.Razor.xml
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.WebPages.xml
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\System.Web.WebPages.Razor.xml
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\Antlr3.Runtime.pdb
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\bin\Newtonsoft.Json.xml
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\obj\Debug\ItsMyBlog.Client.csprojResolveAssemblyReference.cache
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\obj\Debug\ItsMyBlog.Client.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Client\obj\Debug\ItsMyBlog.Client.pdb

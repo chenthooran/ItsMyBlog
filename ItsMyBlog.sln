@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItsMyBlog.Client", "ItsMyBlog.Client\ItsMyBlog.Client.csproj", "{FB1CCEFD-A726-4EF1-BD1E-0633FCEE301A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItsMyBlog.Data", "ItsMyBlog.Core\ItsMyBlog.Data.csproj", "{53FF81A9-4D28-41CE-80D3-FC40F6132DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB1CCEFD-A726-4EF1-BD1E-0633FCEE301A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1CCEFD-A726-4EF1-BD1E-0633FCEE301A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1CCEFD-A726-4EF1-BD1E-0633FCEE301A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1CCEFD-A726-4EF1-BD1E-0633FCEE301A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53FF81A9-4D28-41CE-80D3-FC40F6132DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FF81A9-4D28-41CE-80D3-FC40F6132DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FF81A9-4D28-41CE-80D3-FC40F6132DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FF81A9-4D28-41CE-80D3-FC40F6132DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

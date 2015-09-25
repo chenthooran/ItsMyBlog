@@ -1,0 +1,20 @@
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Core\bin\Debug\ItsMyBlog.Core.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Core\bin\Debug\ItsMyBlog.Core.pdb
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Core\obj\Debug\ItsMyBlog.Data.csprojResolveAssemblyReference.cache
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Core\obj\Debug\ItsMyBlog.Core.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Core\obj\Debug\ItsMyBlog.Core.pdb
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Core\bin\Debug\ItsMyBlog.Core.dll.config
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Core\bin\Debug\EntityFramework.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Core\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Core\bin\Debug\EntityFramework.xml
+c:\users\kannapiranc\documents\visual studio 2013\Projects\ItsMyBlog\ItsMyBlog.Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\ItsMyBlog\ItsMyBlog.Core\bin\Debug\ItsMyBlog.Core.dll.config
+E:\Projects\ItsMyBlog\ItsMyBlog.Core\bin\Debug\ItsMyBlog.Core.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Core\bin\Debug\ItsMyBlog.Core.pdb
+E:\Projects\ItsMyBlog\ItsMyBlog.Core\bin\Debug\EntityFramework.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Core\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Core\bin\Debug\EntityFramework.xml
+E:\Projects\ItsMyBlog\ItsMyBlog.Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\ItsMyBlog\ItsMyBlog.Core\obj\Debug\ItsMyBlog.Data.csprojResolveAssemblyReference.cache
+E:\Projects\ItsMyBlog\ItsMyBlog.Core\obj\Debug\ItsMyBlog.Core.dll
+E:\Projects\ItsMyBlog\ItsMyBlog.Core\obj\Debug\ItsMyBlog.Core.pdb
